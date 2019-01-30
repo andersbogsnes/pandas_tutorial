@@ -28,6 +28,6 @@ Make sure you have [git](https://git-scm.com/) and [conda](https://conda.io/en/l
 - Everything else: `conda activate pandas_tutorial`
 
 ## Start Jupyter Lab
-- `jupyter lab'
+- `jupyter lab`
 
 
