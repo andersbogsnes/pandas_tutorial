@@ -31,3 +31,19 @@ Make sure you have [git](https://git-scm.com/) and [conda](https://conda.io/en/l
 - `jupyter lab`
 
 
+# If you dont have/want conda (though I highly recommend it!)
+### Create a virtualenv
+- `python -m venv venv`
+
+### Activate Virtualenv
+- Non-Windows
+    - `source venv/bin/activate`
+
+- Windows
+    - `env\Scripts\activate.bat`
+
+### Pip install requirements
+- `pip install -r requirements.txt`
+
+### Start Jupyter lab
+- `jupyter lab`
