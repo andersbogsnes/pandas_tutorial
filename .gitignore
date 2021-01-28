@@ -2,3 +2,6 @@
 *.parquet
 *.db
 *.hdf
+__pycache__
+.python-version
+
