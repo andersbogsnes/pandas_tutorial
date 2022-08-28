@@ -4,4 +4,4 @@
 *.hdf
 __pycache__
 .python-version
-
+.idea
